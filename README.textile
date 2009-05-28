@@ -1,0 +1,11 @@
+h1. Monetra-Ruby
+
+This is the unofficial github repo for the "monetra-ruby" library originally developed by Integrum Technologies, LLC in 2006.  The
+project can still be found on RubyForge (http://rubyforge.org/projects/monetra-ruby/).
+
+This library provides a lightweight interface to the Monetra payment processing system (previously MVCE).
+
+h2. Usage
+
+Most of the usage can be ascertained by looking through lib/monetra.rb.  It's fairly self-explanatory.  For a quick example of a test
+sale transaction, see test/test.rb
